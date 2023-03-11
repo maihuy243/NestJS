@@ -1,0 +1,7 @@
+DTO        : Data TransformObject ( Khai báo interface , validate v.v )
+Controller : Define Routing
+Services   : Logic Routing
+Repository : Connect DB Query
+Module ( import Controller, Services)
+
+----------- Luồng ------------
